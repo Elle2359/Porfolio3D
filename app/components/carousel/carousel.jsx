@@ -77,7 +77,7 @@ export const Carousel = ({ width, height, images, placeholder, ...rest }) => {
     camera.current = new OrthographicCamera(...cameraOptions);
     scene.current = new Scene();
     renderer.current.setPixelRatio(2);
-    renderer.current.setClearColor(0x7cfc00, 1.0);
+    renderer.current.setClearColor(0x111111, 1.0);
     renderer.current.setSize(width, height);
     renderer.current.domElement.style.width = '100%';
     renderer.current.domElement.style.height = 'auto';
