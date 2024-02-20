@@ -5,7 +5,7 @@
   "sideEffects": false,
   "type": "module",
   "scripts": {
-    "build": " npm install && npm ci --production=false && npm prune --production && remix vite:build ",
+    "build": " npm install && remix vite:build ",
     "dev": "npx prisma migrate deploy && node ./scripts/dev.cjs && remix vite:dev",
     "start": "wrangler pages dev ./build/client",
     "postinstall": "node ./scripts/draco.cjs",
