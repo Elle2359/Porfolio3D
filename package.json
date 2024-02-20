@@ -20,6 +20,8 @@
     "@remix-run/cloudflare": "^2.6.0",
     "@remix-run/cloudflare-pages": "^2.6.0",
     "@remix-run/css-bundle": "^2.6.0",
+    "@remix-run/express": "^2.6.0",
+    "@remix-run/node": "^2.6.0",
     "@remix-run/react": "^2.6.0",
     "framer-motion": "11.0.5",
     "fs-extra": "^11.2.0",

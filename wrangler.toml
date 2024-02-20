@@ -1,3 +1,4 @@
+name = "elin"
 kv_namespaces = [
-  { id = "MY_KV", binding="MY_KV" }
+  { id = "02a4c0b8bbf14622a52fc9b4f07d81cb", binding="Resume" }
 ]
