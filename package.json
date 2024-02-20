@@ -2,7 +2,6 @@
   "name": "portfolio",
   "homepage": "https://hamishw.com",
   "description": "Portfolio site ",
-  
   "sideEffects": false,
   "type": "module",
   "scripts": {
@@ -35,7 +34,7 @@
   "devDependencies": {
     "@csstools/postcss-global-data": "^2.1.1",
     "@mapbox/rehype-prism": "^0.9.0",
-    "@mdx-js/rollup": "^3.0.0",
+    "@mdx-js/rollup": "^3.0.1",
     "@remix-run/dev": "^2.6.0",
     "@storybook/addon-a11y": "^7.6.16",
     "@storybook/addon-essentials": "^7.6.16",
